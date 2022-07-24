@@ -1,0 +1,28 @@
+{
+    "name": "nathans-gruvbox",
+    "displayName": "Nathan's Gruvbox",
+    "description": "This is a gruvbox tailored towards Nathan's excellent taste.",
+    "version": "0.0.1",
+    "publisher": "NathanBarry",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nathan's Gruvbox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nathan's Gruvbox-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "gruvbox",
+        "rust"
+    ]
+}
