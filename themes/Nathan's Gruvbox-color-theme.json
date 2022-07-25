@@ -421,6 +421,12 @@
         "foreground": "#d3869b"
       }
     },
+    {
+      "scope": "entity.name.type.lifetime.rust",
+      "settings": {
+        "foreground": "#fe8019"
+      }
+    },
     //   {
     // 	"scope": "entity.name.type.rust",
     // 	"settings": {
