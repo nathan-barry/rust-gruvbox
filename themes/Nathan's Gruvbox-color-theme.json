@@ -930,13 +930,13 @@
       }
     },
     {
-      "scope": "entity.name.tag.tsx",
+      "scope": "entity.name.tag.js",
       "settings": {
         "foreground": "#83a598"
       }
     },
     {
-      "scope": "meta.jsx.children.tsx",
+      "scope": "meta.jsx.children.js",
       "settings": {
         "foreground": "#ebdbb2"
       }
@@ -946,6 +946,18 @@
       "scope": ["source.ts variable.language"],
       "settings": {
         "foreground": "#fe8019"
+      }
+    },
+    {
+      "scope": "entity.name.tag.tsx",
+      "settings": {
+        "foreground": "#83a598"
+      }
+    },
+    {
+      "scope": "meta.jsx.children.tsx",
+      "settings": {
+        "foreground": "#ebdbb2"
       }
     },
     // golang --------------------------------------------
