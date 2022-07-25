@@ -1,9 +1,13 @@
 {
-    "name": "nathans-gruvbox",
-    "displayName": "Nathan's Gruvbox",
+    "name": "rust-gruvbox",
+    "displayName": "Rust Gruvbox",
     "description": "This is a gruvbox tailored towards Nathan's excellent taste.",
     "version": "0.0.1",
     "publisher": "NathanBarry",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/0xnathanbarry/rust-gruvbox"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
