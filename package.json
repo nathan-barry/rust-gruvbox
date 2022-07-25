@@ -2,7 +2,7 @@
     "name": "rust-gruvbox",
     "displayName": "Rust Gruvbox",
     "description": "This is a gruvbox tailored towards Nathan's excellent taste.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "NathanBarry",
     "repository": {
         "type": "git",
